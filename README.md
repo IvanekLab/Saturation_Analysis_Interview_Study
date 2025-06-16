@@ -3,6 +3,7 @@
 # As part of this study:
 
 "Minimizing Threats Through Responsible Voluntary Confidential Food Safety Data Sharing: Insights from Food Industry Leaders"
+
 By Linda Kalunga, Katherine Koebel, Carrie Alexander, Martin Wiedmann, Aaron Smith, Aaron Adalja, Renata Ivanek
 
 Preprint: xxxx [link]
