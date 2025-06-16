@@ -1,4 +1,10 @@
-# Saturation Analysis for Interview Study (Minimizing Threats Through Responsible Voluntary Confidential Food Safety Data Sharing: Insights from Food Industry Leaders)
+# Saturation Analysis for Interview Study 
+
+# As part of this study:
+
+"Minimizing Threats Through Responsible Voluntary Confidential Food Safety Data Sharing: Insights from Food Industry Leaders"
+By Linda Kalunga, Katherine Koebel, Carrie Alexander, Martin Wiedmann, Aaron Smith, Aaron Adalja, Renata Ivanek
+Preprint: xxxx [link]
 
 This repository contains code used to conduct a saturation analysis for a qualitative interview study. The analysis includes:
 - A sequential saturation curve
@@ -7,8 +13,7 @@ This repository contains code used to conduct a saturation analysis for a qualit
 
 ## Overview
 
-The goal of this analysis was to evaluate when code saturation was reached in the data (27 interview transcripts). This helped us detemine
-the adequency of our sample size.
+The goal of this analysis was to assess saturation in the data comprising of 63 codes across 27 interview transcripts
 
 ## Files
 
