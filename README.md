@@ -6,7 +6,7 @@
 
 By Linda Kalunga, Katherine Koebel, Carrie Alexander, Martin Wiedmann, Aaron Smith, Aaron Adalja, Renata Ivanek
 
-Preprint: xxxx [link]
+Preprint: https://doi.org/10.21203/rs.3.rs-6960610/v1
 
 This repository contains code used to conduct a saturation analysis for a qualitative interview study. The analysis includes:
 - A sequential saturation curve
